@@ -8,13 +8,18 @@ http://www.sciencedirect.com/science/article/pii/S1570866714000173
 
 ## To compile:
 
-Make sure you have g++ and make installed. 
-Open a command line and type: make
+Make sure you have ```g++``` and ```make``` installed. 
+Open a command line and type: 
+
+```
+make
+```
 
 ## To run:
 
+```
 ./radixSA inputFile outputFile
-
+```
 
 Please report any bugs to mariusmni@gmail.com
 
