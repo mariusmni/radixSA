@@ -6,7 +6,7 @@ Rajasekaran, Sanguthevar, and Marius Nicolae. "An elegant algorithm for the cons
 
 http://www.sciencedirect.com/science/article/pii/S1570866714000173
 
-NOTE: This algorithm uses 32 bit integers for the suffix array, therefore the maximum length of the string should fit within 32 bits. We recommend you get [RadixSA64](https://github.com/mariusmni/radixSA64) instead, which uses configurable integer type: 32 bits for shorter strings, 64 bits for longer strings.
+**NOTE:** This algorithm uses 32 bit integers for the suffix array, therefore the maximum length of the string should fit within 32 bits. **We recommend everyone to get [RadixSA64](https://github.com/mariusmni/radixSA64) instead**, which uses configurable integer type: 32 bits for shorter strings, 64 bits for longer strings.
 
 
 ## To compile:
